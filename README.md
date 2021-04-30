@@ -1,7 +1,7 @@
 # wafer-faulty-detection
 WAFER SENSOR FAULTY DETECTION
-@python
--python version =3.6
+- python
+   - python version =3.6
 
 
 With the following software and hardware list you can run the code files
